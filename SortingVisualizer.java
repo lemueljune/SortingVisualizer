@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class SortingCaseStudy extends JFrame {
+public class SortingVisualizer extends JFrame {
 
     private int[] array;
     private boolean isSorted;
